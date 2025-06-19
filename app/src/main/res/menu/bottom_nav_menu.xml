@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/menu_history"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="History" />
+
+    <item
+        android:id="@+id/menu_add"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Add" />
+
+    <item
+        android:id="@+id/menu_medications"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Meds" />
+
+
+    <item
+        android:id="@+id/menu_my_documents"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="My Documents" />
+
+
+</menu>
